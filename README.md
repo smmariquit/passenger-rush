@@ -14,7 +14,7 @@ Passenger Rush is a simple Java Application exported to an executable file. Two 
 
 ## Game Overview
 
-The goal is to transport passengers to the Junction Unloading Area and score higher than your opponent. Control your jeepney, pick up passengers, avoid obstacles, and utilize power-ups. The game only lasts a maximum of five minutes.
+The goal is to transport passengers to the Junction Unloading Area and score higher than your opponent. Control your jeepney, pick up passengers, avoid obstacles, and use power-ups. The game only lasts a maximum of five minutes.
 
 To play Passenger Rush:
 
